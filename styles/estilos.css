@@ -6,7 +6,7 @@ min-height: 100vh;
 }
 
 .encabezado{
-  background-image: url(/assets/cabeza.jpg);
+  background-image: url("../assets/cabeza.jpg");
   background-color: #2d190c;
   background-position: center;
   background-repeat: no-repeat;
